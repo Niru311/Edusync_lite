@@ -37,7 +37,7 @@ Unlike traditional open collaboration tools, EduSync Lite introduces a **mediato
 - JWT Authentication
 
 ### Database
-- PostgreSQL / SQLite
+- MongoDB 
 
 ### Tools
 - Git & GitHub
